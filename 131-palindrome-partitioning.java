@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/palindrome-partitioning
 
+// Leetcode Solution
 class Solution {
     public List<List<String>> partition(String s) {
         List<List<String>> result = new ArrayList<List<String>>();
